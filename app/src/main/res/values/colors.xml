@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#50c3e3</color>
+    <color name="colorPrimaryDark">#4281ca</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Color palette -->
+    <color name="dark_sky_blue">#4990e2</color>
+    <color name="almost_black_20">#33070707</color>
+    <color name="white">#f6f6f6</color>
+    <color name="dark_sky_blue_two">#50c3e3</color>
+    <color name="another">#3c74b5</color>
+    <color name="charcoal_grey">#4a4a4a</color>
+    <color name="text_message">#797979</color>
+    <color name="another2">#9db9da</color>
+</resources>
